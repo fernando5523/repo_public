@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY_NAME: ittrvcontainers
-  IMAGE_NAME: flask-alpine-app 
+  IMAGE_NAME: app-repo-public
   TF_VERSION: "1.11.4"
   ARM_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
   ARM_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}

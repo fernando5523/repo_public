@@ -1,4 +1,4 @@
 environment   = "staging"
 REGISTRY_NAME = "ittrvcontainers"
-IMAGE_NAME    = "flask-alpine-app"
+IMAGE_NAME    = "app-repo-public"
 IMAGE_TAG     = "latest"
