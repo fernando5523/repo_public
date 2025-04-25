@@ -1,4 +1,4 @@
 resource_group_name  = "storage-rg"
 storage_account_name = "stterraformconfig"
 container_name       = "tfstate"
-key                  = "flask-alpine-app-staging/terraform.tfstate"
+key                  = "app-repo-public-staging/terraform.tfstate"
