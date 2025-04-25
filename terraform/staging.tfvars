@@ -1,4 +1,4 @@
 environment   = "staging"
-REGISTRY_NAME = "ittrvcontainers"
-IMAGE_NAME    = "app-repo-public"
-IMAGE_TAG     = "latest"
+registry_name = "ittrvcontainers"
+image_name    = "app-repo-public"
+image_tag     = "latest"
